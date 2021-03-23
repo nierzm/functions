@@ -1,0 +1,30 @@
+.container {
+    display: inline-block;
+    margin: 10px auto;
+    padding: 30px;
+    width: 350px;
+    background-color: aliceblue;
+}
+h1 {
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    margin: 0px 10px 15px 10px;
+    
+}
+button {
+    display: inline-block;
+    background-color: cadetblue;
+    margin: 20px;
+}
+p {
+    border-bottom: 1px solid burlywood;
+    margin: 5px 0px 10px 0px;
+}
+img {
+    margin-right: 75px;
+    border-bottom: 1px solid burlywood;
+}
+input {
+    border-bottom: 1px solid burlywood;
+}
